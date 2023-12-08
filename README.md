@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:DB7093,100:696969&height=300&section=header&text=Su%20Min%20Lee&fontSize=90&desc=Dongyang%20Mirae%20University&descSize=30desc=Desc&descAlignY=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:DB7093,100:696969&height=300&section=header&text=Sumin's%20GitHub&fontSize=60&desc=Dongyang%20Mirae%20University&descSize=30desc=Desc&descAlignY=70&animation=twinkling)
 
 
 ## ✨ Welcome to my page ✨
