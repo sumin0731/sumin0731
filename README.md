@@ -3,9 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:DB7093,100:696969&height=300&section=header&text=Sumin's%20GitHub&fontSize=60&desc=Dongyang%20Mirae%20University&descSize=30desc=Desc&descAlignY=70&animation=twinkling)
 
 
-## ✨ Welcome to my page ✨
+## _✨ Welcome to my page ✨_
 
 </div>
+
+<br/>
 
 ### 💻 study
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -13,12 +15,34 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
+<br/>
+
+### 💻 Learning repository
+- [_OSS_](https://github.com/sumin0731/My-OSS)
+- [_JAVA_](https://github.com/sumin0731/java)
+- [_JSP_](https://github.com/sumin0731/wp)
+- [_MYSQL_](https://github.com/sumin0731/mysql)
+
+<br/>
+
+### 💻 My-cheat sheet
+- [_GIT_](https://github.com/sumin0731/My-OSS/blob/main/CHEAT%20SHEET/Git%20Cheat%20Sheet.pdf)
+- [_GITHUB_](https://github.com/sumin0731/My-OSS/blob/main/CHEAT%20SHEET/GitHub%20Cheat%20Sheet.pdf)   
+
+<br/>
+<br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin0731&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumin0731&layout=compact&theme=dracula)](https://github.com/sumin0731/github-readme-stats)
 
+<br/>
+
+## 💬 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sm026729754@gmail.com)](mailto:sm026729754@gmail.com)
+
+<br/>
 
 <div align="center">
 
