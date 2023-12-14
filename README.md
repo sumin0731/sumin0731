@@ -39,7 +39,7 @@
 
 <br/>
 
-## 💬 Contact
+### 💬 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sm026729754@gmail.com)](mailto:sm026729754@gmail.com)
 
 <br/>
